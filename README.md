@@ -24,7 +24,7 @@ Small scripts, mostly about Singapore and other browser based automation. Contac
 <tr><td><b>E-commerce price</b></td><td>On Shopee, Lazada, Amazon or PDD, finds the same item on the other stores and shows the cheapest in S$</td><td><a href="https://github.com/fang89/Chrome-extension-ecommerceprice">Repo</a></td></tr>
 </table>
 
-## 🎮 Neopets
+## 🎮 Neopets - Childhood nostalgia
 <sub><a href="https://github.com/fang89?tab=repositories&q=topic%3Aneopets">all Neopets repos</a></sub>
 
 <table>
