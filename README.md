@@ -8,6 +8,8 @@
 
 </div>
 
+<br>
+
 # 🇸🇬 Singapore
 
 Random facts about +65
@@ -22,6 +24,8 @@ Random facts about +65
 <tr><td><b>Food recommendation</b></td><td>Ten places worth going back to around Boon Keng, Bendemeer and Geylang Bahru</td><td><a href="https://fang89.github.io/Singapore-food-recommendation/">➡️ Open</a><br><a href="https://github.com/fang89/Singapore-food-recommendation">💻 Repo</a></td></tr>
 </table>
 
+<br>
+
 # 🧩 Chrome extensions
 
 Quality of life improvement to everyday web browsing
@@ -31,6 +35,8 @@ Quality of life improvement to everyday web browsing
 <tr><td><b>YouTube improvement</b></td><td>Watch videos filling the whole tab, and know what a video says before you spend time on it</td><td><a href="https://github.com/fang89/Chrome-extension-youtubeimprovement">💻 Repo</a></td></tr>
 <tr><td><b>E-commerce price</b></td><td>Stop overpaying: see at a glance if the same item is cheaper on Shopee, Lazada, Amazon or PDD, in S$</td><td><a href="https://github.com/fang89/Chrome-extension-ecommerceprice">💻 Repo</a></td></tr>
 </table>
+
+<br>
 
 # 🎮 Neopets - Childhood nostalgia
 
@@ -67,6 +73,8 @@ Exploring how far we have come since the early 2000s: the tools I wish existed b
 <tr><th width="240" align="left">Project</th><th width="560" align="left">What it is</th><th width="120" align="left">Links</th></tr>
 <tr><td><b>Grand Theft Ummagine guide</b></td><td>Clear every level without trial and error: a map plus the exact keys to press</td><td><a href="https://github.com/fang89/Neopets-Grandtheftummagine-guide">💻 Repo</a></td></tr>
 </table>
+
+<br>
 
 # ✨ Other
 
