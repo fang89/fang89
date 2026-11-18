@@ -28,7 +28,7 @@ Mostly about **Singapore**, plus browser-based automation.
 
 <table>
 <tr><th width="240" align="left">Project</th><th width="560" align="left">What it is</th><th width="120" align="left">Links</th></tr>
-<tr><td><b>YouTube summary</b></td><td>A Gemini summary of every YouTube video, right beside it, plus a full-window player that fills the tab. Every feature has its own switch. No API key</td><td><a href="https://github.com/fang89/Chrome-extension-youtubesummary">💻 Repo</a></td></tr>
+<tr><td><b>YouTube improvement</b></td><td>Full screen inside the browser tab, plus a Gemini summary of every video before you press play. Each feature has its own switch. No API key</td><td><a href="https://github.com/fang89/Chrome-extension-youtubeimprovement">💻 Repo</a></td></tr>
 <tr><td><b>E-commerce price</b></td><td>On Shopee, Lazada, Amazon or PDD, finds the same item on the other stores and shows the cheapest in S$</td><td><a href="https://github.com/fang89/Chrome-extension-ecommerceprice">💻 Repo</a></td></tr>
 </table>
 
