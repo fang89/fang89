@@ -36,7 +36,7 @@ Quality of life improvement to everyday web browsing
 
 Exploring how far we have come since the early 2000s: the tools I wish existed back then
 
-## 🧩 Neopets · Solvers
+## 🧠 Neopets · Solvers
 
 <table>
 <tr><th width="240" align="left">Project</th><th width="560" align="left">What it is</th><th width="120" align="left">Links</th></tr>
