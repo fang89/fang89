@@ -11,7 +11,6 @@ Mostly about **Singapore**, plus browser-based automation.
 ---
 
 ## 🇸🇬 Singapore
-<sub><a href="https://github.com/fang89?tab=repositories&q=topic%3Asingapore">all Singapore repos</a></sub>
 
 <table>
 <tr><th width="240" align="left">Project</th><th width="560" align="left">What it is</th><th width="120" align="left">Links</th></tr>
@@ -24,7 +23,6 @@ Mostly about **Singapore**, plus browser-based automation.
 </table>
 
 ## 🧩 Chrome extensions
-<sub><a href="https://github.com/fang89?tab=repositories&q=topic%3Achrome-extension">all Chrome extension repos</a></sub>
 
 <table>
 <tr><th width="240" align="left">Project</th><th width="560" align="left">What it is</th><th width="120" align="left">Links</th></tr>
@@ -33,7 +31,6 @@ Mostly about **Singapore**, plus browser-based automation.
 </table>
 
 ## 🎮 Neopets - Childhood nostalgia
-<sub><a href="https://github.com/fang89?tab=repositories&q=topic%3Aneopets">all Neopets repos</a></sub>
 
 <table>
 <tr><th width="240" align="left">Project</th><th width="560" align="left">What it is</th><th width="120" align="left">Links</th></tr>
