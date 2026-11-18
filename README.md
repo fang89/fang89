@@ -15,12 +15,12 @@ Mostly about **Singapore**, plus browser-based automation.
 
 <table>
 <tr><th width="240" align="left">Project</th><th width="560" align="left">What it is</th><th width="120" align="left">Links</th></tr>
-<tr><td><b>House analysis</b></td><td>Pick a block worth renting before you go viewing: all ~13,400 HDB blocks scored out of 10 on value and what you can walk to</td><td><a href="https://fang89.github.io/Singapore-house-analysis/">➡️ Open</a><br><a href="https://github.com/fang89/Singapore-house-analysis">💻 Repo</a></td></tr>
-<tr><td><b>MRT facts</b></td><td>Know which stations really get you places fastest, on a map drawn to true scale, with what is coming up to 2030</td><td><a href="https://fang89.github.io/Singapore-MRT-facts/">➡️ Open</a><br><a href="https://github.com/fang89/Singapore-MRT-facts">💻 Repo</a></td></tr>
-<tr><td><b>ATMs</b></td><td>Know how far you will walk for cash from any HDB block, before you move in</td><td><a href="https://fang89.github.io/Singapore-ATMs/">➡️ Open</a><br><a href="https://github.com/fang89/Singapore-ATMs">💻 Repo</a></td></tr>
-<tr><td><b>STI</b></td><td>See how Singapore's market rode out every crash and boom since 1987, so you invest with your eyes open</td><td><a href="https://fang89.github.io/Singapore-STI/">➡️ Open</a><br><a href="https://github.com/fang89/Singapore-STI">💻 Repo</a></td></tr>
-<tr><td><b>Personal finance</b></td><td>Sort out your money in one read: CPF, low-cost ETFs through IBKR, and one card that pays you back</td><td><a href="https://fang89.github.io/Singapore-personal-finance/">➡️ Open</a><br><a href="https://github.com/fang89/Singapore-personal-finance">💻 Repo</a></td></tr>
-<tr><td><b>Food recommendation</b></td><td>Skip the disappointing meals: ten places around Boon Keng, Bendemeer and Geylang Bahru that are worth going back to</td><td><a href="https://fang89.github.io/Singapore-food-recommendation/">➡️ Open</a><br><a href="https://github.com/fang89/Singapore-food-recommendation">💻 Repo</a></td></tr>
+<tr><td><b>House analysis</b></td><td>Scores all ~13,400 HDB blocks out of 10 on rent value and walkable amenities</td><td><a href="https://fang89.github.io/Singapore-house-analysis/">➡️ Open</a><br><a href="https://github.com/fang89/Singapore-house-analysis">💻 Repo</a></td></tr>
+<tr><td><b>MRT facts</b></td><td>The MRT and LRT drawn to true scale, fun facts, a 1987–2030 timeline and station connectivity scores</td><td><a href="https://fang89.github.io/Singapore-MRT-facts/">➡️ Open</a><br><a href="https://github.com/fang89/Singapore-MRT-facts">💻 Repo</a></td></tr>
+<tr><td><b>ATMs</b></td><td>How far every HDB block is from the nearest DBS/POSB ATM</td><td><a href="https://fang89.github.io/Singapore-ATMs/">➡️ Open</a><br><a href="https://github.com/fang89/Singapore-ATMs">💻 Repo</a></td></tr>
+<tr><td><b>STI</b></td><td>38 years of the STI and its 30 constituents since 1987, annotated</td><td><a href="https://fang89.github.io/Singapore-STI/">➡️ Open</a><br><a href="https://github.com/fang89/Singapore-STI">💻 Repo</a></td></tr>
+<tr><td><b>Personal finance</b></td><td>A one-page guide: CPF, Irish-domiciled ETFs via IBKR, one cashback card</td><td><a href="https://fang89.github.io/Singapore-personal-finance/">➡️ Open</a><br><a href="https://github.com/fang89/Singapore-personal-finance">💻 Repo</a></td></tr>
+<tr><td><b>Food recommendation</b></td><td>Ten places worth going back to around Boon Keng, Bendemeer and Geylang Bahru</td><td><a href="https://fang89.github.io/Singapore-food-recommendation/">➡️ Open</a><br><a href="https://github.com/fang89/Singapore-food-recommendation">💻 Repo</a></td></tr>
 </table>
 
 ## 🧩 Chrome extensions
