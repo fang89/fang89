@@ -30,7 +30,7 @@
 
 ## 🎮 Neopets - Childhood nostalgia
 
-Exploring how far we've come since the early 2000s: the tools I wish we'd had back then.
+Exploring how far we have come since the early 2000s: the tools I wish existed back then.
 
 <table>
 <tr><th width="240" align="left">Project</th><th width="560" align="left">What it is</th><th width="120" align="left">Links</th></tr>
