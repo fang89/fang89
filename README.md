@@ -1,10 +1,10 @@
 <div align="center">
 
-### 👋 Hi, I build small scripts and web tools
+<h2>👋 Hi, I build small scripts and web tools</h2>
 
-Mostly about **Singapore**, plus browser-based automation.
+<h3>Mostly about Singapore, plus browser-based automation.</h3>
 
-<a href="mailto:gregoryfang89@gmail.com"><img src="https://img.shields.io/badge/Email_me-gregoryfang89%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> <img src="https://img.shields.io/badge/Based_in-Singapore-EF3340?style=flat-square" alt="Based in Singapore">
+<a href="mailto:gregoryfang89@gmail.com"><img src="https://img.shields.io/badge/gregoryfang89%40gmail.com-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>&nbsp;<img src="https://img.shields.io/badge/Singapore-1F6FEB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Singapore">
 
 </div>
 
