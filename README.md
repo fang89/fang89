@@ -22,6 +22,8 @@
 
 ## 🧩 Chrome extensions
 
+Quality of life improvement to everyday web browsing
+
 <table>
 <tr><th width="240" align="left">Project</th><th width="560" align="left">What it is</th><th width="120" align="left">Links</th></tr>
 <tr><td><b>YouTube improvement</b></td><td>Watch videos filling the whole tab, and know what a video says before you spend time on it</td><td><a href="https://github.com/fang89/Chrome-extension-youtubeimprovement">💻 Repo</a></td></tr>
