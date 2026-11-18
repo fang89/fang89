@@ -42,6 +42,7 @@ Mostly about **Singapore**, plus browser-based automation.
 <tr><td><b>NeggSweeper solver</b></td><td>Shows which neggs are safe. Exact solver, never clicks</td><td><a href="https://fang89.github.io/Neopets-neggsweeper-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-neggsweeper-solver">💻 Repo</a></td></tr>
 <tr><td><b>Puzzles of the Past solver</b></td><td>Shows where every jigsaw piece goes</td><td><a href="https://fang89.github.io/Neopets-puzzlesofthepast-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-puzzlesofthepast-solver">💻 Repo</a></td></tr>
 <tr><td><b>Cellblock solver</b></td><td>Lights the square to play next, with the reason</td><td><a href="https://fang89.github.io/Neopets-cellblock-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-cellblock-solver">💻 Repo</a></td></tr>
+<tr><td><b>Doglefetch solver</b></td><td>Shows when to let go, throw by throw. Never throws for you</td><td><a href="https://fang89.github.io/Neopets-doglefetch-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-doglefetch-solver">💻 Repo</a></td></tr>
 <tr><td><b>Grand Theft Ummagine guide</b></td><td>A drawn map and key-tap route for every level</td><td><a href="https://github.com/fang89/Neopets-Grandtheftummagine-guide">💻 Repo</a></td></tr>
 </table>
 
