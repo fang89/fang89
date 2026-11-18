@@ -4,7 +4,7 @@
 
 <h3>Mostly about Singapore, plus browser-based automation.</h3>
 
-<h3><a href="mailto:gregoryfang89@gmail.com"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2709.svg" width="24" align="top" alt="">&nbsp;&nbsp;gregoryfang89@gmail.com</a><br><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1f8-1f1ec.svg" width="24" align="top" alt="">&nbsp;&nbsp;Based in Singapore</h3>
+<h3><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2709.svg" width="24" align="top" alt="">&nbsp;&nbsp;<a href="mailto:gregoryfang89@gmail.com">gregoryfang89@gmail.com</a><br><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1f8-1f1ec.svg" width="24" align="top" alt="">&nbsp;&nbsp;Based in Singapore</h3>
 
 </div>
 
