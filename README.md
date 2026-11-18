@@ -36,7 +36,7 @@ Quality of life improvement to everyday web browsing
 
 Exploring how far we have come since the early 2000s: the tools I wish existed back then
 
-### 🧩 Solvers
+## 🧩 Neopets · Solvers
 
 <table>
 <tr><th width="240" align="left">Project</th><th width="560" align="left">What it is</th><th width="120" align="left">Links</th></tr>
@@ -45,7 +45,7 @@ Exploring how far we have come since the early 2000s: the tools I wish existed b
 <tr><td><b>Shapeshifter solver</b></td><td>Get past the level you are stuck on: paste the board and see where every piece goes</td><td><a href="https://fang89.github.io/Neopets-shapeshifter-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-shapeshifter-solver">💻 Repo</a></td></tr>
 </table>
 
-### 🕹️ Ruffle games
+## 🕹️ Neopets · Ruffle games
 
 <table>
 <tr><th width="240" align="left">Project</th><th width="560" align="left">What it is</th><th width="120" align="left">Links</th></tr>
@@ -61,7 +61,7 @@ Exploring how far we have come since the early 2000s: the tools I wish existed b
 <tr><td><b>Time Tunnel solver</b></td><td>Crack every vault code in about 4 guesses: the next colour and click count sit right above each stone</td><td><a href="https://fang89.github.io/Neopets-timetunnel-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-timetunnel-solver">💻 Repo</a></td></tr>
 </table>
 
-### 📖 Guides
+## 📖 Neopets · Guides
 
 <table>
 <tr><th width="240" align="left">Project</th><th width="560" align="left">What it is</th><th width="120" align="left">Links</th></tr>
