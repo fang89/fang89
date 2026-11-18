@@ -51,7 +51,7 @@ Exploring how far we have come since the early 2000s: the tools I wish existed b
 <tr><td><b>NeggSweeper solver</b></td><td>Stop losing to a bad guess: see which neggs are certainly safe</td><td><a href="https://fang89.github.io/Neopets-neggsweeper-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-neggsweeper-solver">💻 Repo</a></td></tr>
 </table>
 
-## 🕹️ Neopets · Ruffle games
+## Ruffle games
 
 <table>
 <tr><th width="240" align="left">Project</th><th width="560" align="left">What it is</th><th width="120" align="left">Links</th></tr>
@@ -67,7 +67,7 @@ Exploring how far we have come since the early 2000s: the tools I wish existed b
 <tr><td><b>Time Tunnel solver</b></td><td>Crack every vault code in about 4 guesses: the next colour and click count sit right above each stone</td><td><a href="https://fang89.github.io/Neopets-timetunnel-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-timetunnel-solver">💻 Repo</a></td></tr>
 </table>
 
-## 📖 Neopets · Guides
+## Guides
 
 <table>
 <tr><th width="240" align="left">Project</th><th width="560" align="left">What it is</th><th width="120" align="left">Links</th></tr>
