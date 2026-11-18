@@ -10,6 +10,8 @@
 
 ## 🇸🇬 Singapore
 
+Random facts about +65
+
 <table>
 <tr><th width="240" align="left">Project</th><th width="560" align="left">What it is</th><th width="120" align="left">Links</th></tr>
 <tr><td><b>House analysis</b></td><td>Scores all ~13,400 HDB blocks out of 10 on rent value and walkable amenities</td><td><a href="https://fang89.github.io/Singapore-house-analysis/">➡️ Open</a><br><a href="https://github.com/fang89/Singapore-house-analysis">💻 Repo</a></td></tr>
