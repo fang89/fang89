@@ -1,6 +1,16 @@
-# fang89
+<div align="center">
 
-Small scripts, mostly about Singapore and other browser based automation. Contact me at gregoryfang89@gmail.com if you have questions.
+### 👋 Hi, I build small scripts and web tools
+
+Mostly about **Singapore**, plus browser-based automation.
+
+<a href="mailto:gregoryfang89@gmail.com"><img src="https://img.shields.io/badge/Email_me-gregoryfang89%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> <img src="https://img.shields.io/badge/Based_in-Singapore-EF3340?style=flat-square" alt="Based in Singapore">
+
+<sub><a href="#-singapore">🇸🇬 Singapore</a> &nbsp;·&nbsp; <a href="#-chrome-extensions">🧩 Chrome extensions</a> &nbsp;·&nbsp; <a href="#-neopets---childhood-nostalgia">🎮 Neopets</a> &nbsp;·&nbsp; <a href="#-other">✨ Other</a></sub>
+
+</div>
+
+---
 
 ## 🇸🇬 Singapore
 <sub><a href="https://github.com/fang89?tab=repositories&q=topic%3Asingapore">all Singapore repos</a></sub>
