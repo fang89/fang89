@@ -30,6 +30,8 @@
 
 ## 🎮 Neopets - Childhood nostalgia
 
+Exploring how far we've come since the early 2000s: the tools I wish we'd had back then.
+
 <table>
 <tr><th width="240" align="left">Project</th><th width="560" align="left">What it is</th><th width="120" align="left">Links</th></tr>
 <tr><td><b>Shapeshifter solver</b></td><td>Get past the level you are stuck on: paste the board and see where every piece goes</td><td><a href="https://fang89.github.io/Neopets-shapeshifter-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-shapeshifter-solver">💻 Repo</a></td></tr>
