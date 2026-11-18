@@ -4,7 +4,7 @@
 
 <h3>Mostly about Singapore, plus browser-based automation.</h3>
 
-<a href="mailto:gregoryfang89@gmail.com"><img src="https://img.shields.io/badge/gregoryfang89%40gmail.com-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>&nbsp;<img src="https://img.shields.io/badge/Singapore-1F6FEB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Singapore">
+<h3><a href="mailto:gregoryfang89@gmail.com" title="Email me">✉️</a>&nbsp;&nbsp;<span title="Based in Singapore">🇸🇬</span></h3>
 
 </div>
 
