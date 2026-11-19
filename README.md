@@ -70,13 +70,6 @@ Exploring how far we have come since the early 2000s: the tools I wish existed b
 <tr><td><b>Word Pyramid solver</b></td><td>Clear pyramid after pyramid: it reads every letter and numbers the tiles of the best word in click order</td><td><a href="https://fang89.github.io/Neopets-wordpyramid-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-wordpyramid-solver">💻 Repo</a></td></tr>
 </table>
 
-## Guides
-
-<table>
-<tr><th width="240" align="left">Project</th><th width="560" align="left">What it is</th><th width="120" align="left">Links</th></tr>
-<tr><td><b>Grand Theft Ummagine guide</b></td><td>Clear every level without trial and error: a map plus the exact keys to press</td><td><a href="https://github.com/fang89/Neopets-Grandtheftummagine-guide">💻 Repo</a></td></tr>
-</table>
-
 <br><br><br>
 
 # ✨ Other
