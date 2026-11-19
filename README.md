@@ -51,13 +51,13 @@ Quality of life improvement to everyday web browsing
 
 # 🎮 Neopets - Childhood nostalgia
 
-Exploring how far we have come since the early 2000s: the tools I wish existed back then
+Exploring how far we have come since the early 2000s: the tools I wish existed back then, using math to solve the games I used to guess at
 
 <table>
 <tr><th width="240" align="left">Project</th><th width="560" align="left">What it is</th><th width="120" align="left">Links</th></tr>
-<tr><td><b>Shapeshifter solver</b></td><td>Get past the level you are stuck on: paste the board and see where every piece goes</td><td><a href="https://fang89.github.io/Neopets-shapeshifter-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-shapeshifter-solver">💻 Repo</a></td></tr>
-<tr><td><b>Cellblock solver</b></td><td>Win more games: see the best square to play next, and why</td><td><a href="https://fang89.github.io/Neopets-cellblock-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-cellblock-solver">💻 Repo</a></td></tr>
-<tr><td><b>NeggSweeper solver</b></td><td>Stop losing to a bad guess: see which neggs are certainly safe</td><td><a href="https://fang89.github.io/Neopets-neggsweeper-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-neggsweeper-solver">💻 Repo</a></td></tr>
+<tr><td><b>Shapeshifter solver</b></td><td>Solves any level with math: a pruned search tree plus a precomputed endgame table finds where every piece goes in seconds</td><td><a href="https://fang89.github.io/Neopets-shapeshifter-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-shapeshifter-solver">💻 Repo</a></td></tr>
+<tr><td><b>Cellblock solver</b></td><td>Uses game theory to pick the best square: it searches the moves ahead for forced wins and scores the opponent's best reply</td><td><a href="https://fang89.github.io/Neopets-cellblock-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-cellblock-solver">💻 Repo</a></td></tr>
+<tr><td><b>NeggSweeper solver</b></td><td>Treats the board as a system of constraints and checks every consistent layout, so it shows which neggs are mathematically certain to be safe</td><td><a href="https://fang89.github.io/Neopets-neggsweeper-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-neggsweeper-solver">💻 Repo</a></td></tr>
 </table>
 
 <br><br>
