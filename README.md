@@ -66,6 +66,7 @@ Exploring how far we have come since the early 2000s: the tools I wish existed b
 <tr><td><b>Roodoku solver</b></td><td>Never get stuck on a sudoku board: every answer shows right where you click in the number picker</td><td><a href="https://fang89.github.io/Neopets-roodoku-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-roodoku-solver">💻 Repo</a></td></tr>
 <tr><td><b>Sewage Surfer solver</b></td><td>Never get stuck on a level again: follow the pipes one move at a time</td><td><a href="https://fang89.github.io/Neopets-sewagesurfer-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-sewagesurfer-solver">💻 Repo</a></td></tr>
 <tr><td><b>Time Tunnel solver</b></td><td>Crack every vault code in about 4 guesses: the next colour and click count sit right above each stone</td><td><a href="https://fang89.github.io/Neopets-timetunnel-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-timetunnel-solver">💻 Repo</a></td></tr>
+<tr><td><b>Word Pyramid solver</b></td><td>Clear pyramid after pyramid: it reads every letter and numbers the tiles of the best word in click order</td><td><a href="https://fang89.github.io/Neopets-wordpyramid-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-wordpyramid-solver">💻 Repo</a></td></tr>
 </table>
 
 ## Guides
