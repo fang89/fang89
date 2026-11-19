@@ -19,9 +19,20 @@ Random facts about +65
 <tr><td><b>House analysis</b></td><td>Scores all ~13,400 HDB blocks out of 10 on rent value and walkable amenities</td><td><a href="https://fang89.github.io/Singapore-house-analysis/">➡️ Open</a><br><a href="https://github.com/fang89/Singapore-house-analysis">💻 Repo</a></td></tr>
 <tr><td><b>MRT facts</b></td><td>The MRT and LRT drawn to true scale, fun facts, a 1987–2030 timeline and station connectivity scores</td><td><a href="https://fang89.github.io/Singapore-MRT-facts/">➡️ Open</a><br><a href="https://github.com/fang89/Singapore-MRT-facts">💻 Repo</a></td></tr>
 <tr><td><b>ATMs</b></td><td>How far every HDB block is from the nearest DBS/POSB ATM</td><td><a href="https://fang89.github.io/Singapore-ATMs/">➡️ Open</a><br><a href="https://github.com/fang89/Singapore-ATMs">💻 Repo</a></td></tr>
+<tr><td><b>Food recommendation</b></td><td>Ten places worth going back to around Boon Keng, Bendemeer and Geylang Bahru</td><td><a href="https://fang89.github.io/Singapore-food-recommendation/">➡️ Open</a><br><a href="https://github.com/fang89/Singapore-food-recommendation">💻 Repo</a></td></tr>
+</table>
+
+<br><br>
+
+# 💰 Finance
+
+Markets and money
+
+<table>
+<tr><th width="240" align="left">Project</th><th width="560" align="left">What it is</th><th width="120" align="left">Links</th></tr>
 <tr><td><b>STI</b></td><td>38 years of the STI and its 30 constituents since 1987, annotated</td><td><a href="https://fang89.github.io/Singapore-STI/">➡️ Open</a><br><a href="https://github.com/fang89/Singapore-STI">💻 Repo</a></td></tr>
 <tr><td><b>Personal finance</b></td><td>A one-page guide: CPF, Irish-domiciled ETFs via IBKR, one cashback card</td><td><a href="https://fang89.github.io/Singapore-personal-finance/">➡️ Open</a><br><a href="https://github.com/fang89/Singapore-personal-finance">💻 Repo</a></td></tr>
-<tr><td><b>Food recommendation</b></td><td>Ten places worth going back to around Boon Keng, Bendemeer and Geylang Bahru</td><td><a href="https://fang89.github.io/Singapore-food-recommendation/">➡️ Open</a><br><a href="https://github.com/fang89/Singapore-food-recommendation">💻 Repo</a></td></tr>
+<tr><td><b>Bitcoin Cycle</b></td><td>Judge whether it is a good time to buy or sell Bitcoin, with a fear/greed index and halving clock both tested on history</td><td><a href="https://fang89.github.io/Bitcoin-Cycle/">➡️ Open</a><br><a href="https://github.com/fang89/Bitcoin-Cycle">💻 Repo</a></td></tr>
 </table>
 
 <br><br>
@@ -55,6 +66,5 @@ Exploring how far we have come since the early 2000s: the tools I wish existed b
 
 <table>
 <tr><th width="240" align="left">Project</th><th width="560" align="left">What it is</th><th width="120" align="left">Links</th></tr>
-<tr><td><b>Bitcoin Cycle</b></td><td>Judge whether it is a good time to buy or sell Bitcoin, with a fear/greed index and halving clock both tested on history</td><td><a href="https://fang89.github.io/Bitcoin-Cycle/">➡️ Open</a><br><a href="https://github.com/fang89/Bitcoin-Cycle">💻 Repo</a></td></tr>
 <tr><td><b>Last Night at Changi</b></td><td>An evening of puzzles and history: eight rooms on the final night before Changi Hospital closed in 1997</td><td><a href="https://fang89.github.io/Puzzle-last-night-at-changi/">🎮 Play</a><br><a href="https://github.com/fang89/Puzzle-last-night-at-changi">💻 Repo</a></td></tr>
 </table>
