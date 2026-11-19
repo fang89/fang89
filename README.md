@@ -51,25 +51,6 @@ Exploring how far we have come since the early 2000s: the tools I wish existed b
 <tr><td><b>NeggSweeper solver</b></td><td>Stop losing to a bad guess: see which neggs are certainly safe</td><td><a href="https://fang89.github.io/Neopets-neggsweeper-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-neggsweeper-solver">💻 Repo</a></td></tr>
 </table>
 
-## Ruffle games
-
-<table>
-<tr><th width="240" align="left">Project</th><th width="560" align="left">What it is</th><th width="120" align="left">Links</th></tr>
-<tr><td><b>Chemistry solver</b></td><td>Reach the later levels of Chemistry for Beginners: a pink ring shows where to drop each atom, red crosses mark the squares that end your game</td><td><a href="https://fang89.github.io/Neopets-chemistry-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-chemistry-solver">💻 Repo</a></td></tr>
-<tr><td><b>Spell-Or-Starve solver</b></td><td>Score big in Spell-Or-Starve: the tiles of the best word numbered in click order, with a ring on the arrow when turning the board pays more</td><td><a href="https://fang89.github.io/Neopets-spellorstarve-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-spellorstarve-solver">💻 Repo</a></td></tr>
-<tr><td><b>Codebreaker solver</b></td><td>Crack every Clockwork Codebreaker code in a handful of checks: pink pills on the rings say what to click</td><td><a href="https://fang89.github.io/Neopets-codebreaker-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-codebreaker-solver">💻 Repo</a></td></tr>
-<tr><td><b>Dice of Destiny solver</b></td><td>Shut the box more often: a ring says whether to roll one die or two, then which tiles to close</td><td><a href="https://fang89.github.io/Neopets-diceofdestiny-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-diceofdestiny-solver">💻 Repo</a></td></tr>
-<tr><td><b>Doglefetch solver</b></td><td>Land every throw: a cue tells you exactly when to let go</td><td><a href="https://fang89.github.io/Neopets-doglefetch-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-doglefetch-solver">💻 Repo</a></td></tr>
-<tr><td><b>Kiko Match helper</b></td><td>Never forget a card: every face you turn over stays on it, and pairs are numbered</td><td><a href="https://fang89.github.io/Neopets-kikomatch-helper/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-kikomatch-helper">💻 Repo</a></td></tr>
-<tr><td><b>Kou-Jong solver</b></td><td>Clear every mahjong board: it reads each tile as it is dealt and rings the next pair to click</td><td><a href="https://fang89.github.io/Neopets-koujong-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-koujong-solver">💻 Repo</a></td></tr>
-<tr><td><b>Lunara helper</b></td><td>Answer every Search for Princess Lunara question in the first second: the right answer ringed with the key to press</td><td><a href="https://fang89.github.io/Neopets-lunara-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-lunara-solver">💻 Repo</a></td></tr>
-<tr><td><b>Puzzles of the Past solver</b></td><td>Finish the jigsaw in a fraction of the time: see where every piece belongs</td><td><a href="https://fang89.github.io/Neopets-puzzlesofthepast-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-puzzlesofthepast-solver">💻 Repo</a></td></tr>
-<tr><td><b>Roodoku solver</b></td><td>Never get stuck on a sudoku board: every answer shows right where you click in the number picker</td><td><a href="https://fang89.github.io/Neopets-roodoku-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-roodoku-solver">💻 Repo</a></td></tr>
-<tr><td><b>Sewage Surfer solver</b></td><td>Never get stuck on a level again: follow the pipes one move at a time</td><td><a href="https://fang89.github.io/Neopets-sewagesurfer-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-sewagesurfer-solver">💻 Repo</a></td></tr>
-<tr><td><b>Time Tunnel solver</b></td><td>Crack every vault code in about 4 guesses: the next colour and click count sit right above each stone</td><td><a href="https://fang89.github.io/Neopets-timetunnel-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-timetunnel-solver">💻 Repo</a></td></tr>
-<tr><td><b>Word Pyramid solver</b></td><td>Clear pyramid after pyramid: it reads every letter and numbers the tiles of the best word in click order</td><td><a href="https://fang89.github.io/Neopets-wordpyramid-solver/">➡️ Open</a><br><a href="https://github.com/fang89/Neopets-wordpyramid-solver">💻 Repo</a></td></tr>
-</table>
-
 <br><br><br>
 
 # ✨ Other
